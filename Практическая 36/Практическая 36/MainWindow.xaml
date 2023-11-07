@@ -1,0 +1,22 @@
+﻿<Window x:Class="Практическая_36.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Практическая_36"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="80">
+            </ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="Second_window_button" Grid.Column="1" Content="Второе окно" HorizontalAlignment="Center" Margin="0,19,0,0" VerticalAlignment="Top" Click="Second_window_button_Click"/>
+        <TextBox x:Name="WightTextBox" TextWrapping="Wrap" Text="" Margin="107,155,335,234" BorderBrush="#FF020202" Background="#FF7E92B7"/>
+        <TextBox x:Name="HeightTextBox" TextWrapping="Wrap" Text="" Margin="107,285,335,106" Background="#FF87A2D2" BorderBrush="Black"/>
+        <TextBlock x:Name="HeightTextBlock" TextWrapping="Wrap" Text="Высота второго окна" Margin="113,234,431,162"/>
+        <TextBlock x:Name="WeightTextBlock" TextWrapping="Wrap" Text="Ширина второго окна" Margin="107,82,420,306"/>
+    </Grid>
+</Window>

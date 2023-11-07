@@ -1,0 +1,55 @@
+﻿<Window x:Class="FlowDocumentReaderDemo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FlowDocumentReaderDemo"
+        mc:Ignorable="d"
+        Title="MainWindow"  Height="350" Width="525">
+    <Grid>
+        <FlowDocumentReader>
+            <FlowDocument>
+                <Paragraph>
+                    <Run>text</Run>
+                    
+                </Paragraph>
+
+                <Section FontFamily="Courier new" Background="DarkGray" FontSize="20">
+                    <Paragraph>
+                        text 1
+                    </Paragraph>
+                    <Paragraph Background="HotPink">
+                        <Run Background="Honeydew">text 2</Run>
+                    </Paragraph>
+                    <Paragraph>
+                        text 3
+                    </Paragraph>
+                </Section>
+                <List MarkerStyle="UpperRoman">
+                    <ListItem>
+                        <Paragraph Background="LightCoral">
+                            <Run>text 1</Run>
+                        </Paragraph>
+                    </ListItem>
+                    <ListItem>
+                        <Paragraph Background="MediumOrchid">
+                            <Run>text 2</Run>
+                        </Paragraph>
+                    </ListItem>
+                    <ListItem>
+                        <Paragraph Background="BlueViolet">
+                            <Run>text 3</Run>
+                        </Paragraph>
+                    </ListItem>
+                </List>
+
+                
+                
+                <Paragraph>
+                    текст
+                </Paragraph>
+                
+            </FlowDocument>
+        </FlowDocumentReader>
+    </Grid>
+</Window>

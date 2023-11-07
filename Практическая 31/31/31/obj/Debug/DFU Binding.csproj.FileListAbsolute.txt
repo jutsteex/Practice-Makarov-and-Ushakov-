@@ -1,0 +1,131 @@
+E:\Visual Studio 2017 Projects\source\repos\DFU Binding\DFU Binding\bin\Debug\DFU Binding.exe.config
+E:\Visual Studio 2017 Projects\source\repos\DFU Binding\DFU Binding\bin\Debug\DFU Binding.exe
+E:\Visual Studio 2017 Projects\source\repos\DFU Binding\DFU Binding\bin\Debug\DFU Binding.pdb
+E:\Visual Studio 2017 Projects\source\repos\DFU Binding\DFU Binding\obj\Debug\DFU Binding.csprojAssemblyReference.cache
+E:\Visual Studio 2017 Projects\source\repos\DFU Binding\DFU Binding\obj\Debug\MainWindow.g.cs
+E:\Visual Studio 2017 Projects\source\repos\DFU Binding\DFU Binding\obj\Debug\App.g.cs
+E:\Visual Studio 2017 Projects\source\repos\DFU Binding\DFU Binding\obj\Debug\DFU Binding_MarkupCompile.cache
+E:\Visual Studio 2017 Projects\source\repos\DFU Binding\DFU Binding\obj\Debug\DFU Binding_MarkupCompile.lref
+E:\Visual Studio 2017 Projects\source\repos\DFU Binding\DFU Binding\obj\Debug\MainWindow.baml
+E:\Visual Studio 2017 Projects\source\repos\DFU Binding\DFU Binding\obj\Debug\DFU Binding.g.resources
+E:\Visual Studio 2017 Projects\source\repos\DFU Binding\DFU Binding\obj\Debug\DFU_Binding.Properties.Resources.resources
+E:\Visual Studio 2017 Projects\source\repos\DFU Binding\DFU Binding\obj\Debug\DFU Binding.csproj.GenerateResource.cache
+E:\Visual Studio 2017 Projects\source\repos\DFU Binding\DFU Binding\obj\Debug\DFU Binding.csproj.CoreCompileInputs.cache
+E:\Visual Studio 2017 Projects\source\repos\DFU Binding\DFU Binding\obj\Debug\DFU Binding.exe
+E:\Visual Studio 2017 Projects\source\repos\DFU Binding\DFU Binding\obj\Debug\DFU Binding.pdb
+E:\Visual Studio 2017 Projects\source\repos\DFU Binding\DFU Binding\bin\Debug\Newtonsoft.Json.dll
+E:\Visual Studio 2017 Projects\source\repos\DFU Binding\DFU Binding\bin\Debug\Newtonsoft.Json.xml
+E:\Visual Studio 2017 Projects\source\repos\DFU Binding\DFU Binding\obj\Debug\DFU Binding.csproj.CopyComplete
+E:\Visual Studio 2017 Projects\source\repos\DFU Binding\DFU Binding\obj\Debug\Pages\ElementName.g.cs
+E:\Visual Studio 2017 Projects\source\repos\DFU Binding\DFU Binding\obj\Debug\Pages\ElementName.baml
+E:\Visual Studio 2017 Projects\source\repos\DFU Binding\DFU Binding\obj\Debug\Pages\TargetNullValue.g.cs
+E:\Visual Studio 2017 Projects\source\repos\DFU Binding\DFU Binding\obj\Debug\Pages\TargetNullValue.baml
+E:\Visual Studio 2017 Projects\source\repos\DFU Binding\DFU Binding\obj\Debug\Pages\FallbackValue.g.cs
+E:\Visual Studio 2017 Projects\source\repos\DFU Binding\DFU Binding\obj\Debug\Pages\FallbackValue.baml
+E:\Visual Studio 2017 Projects\source\repos\DFU Binding\DFU Binding\obj\Debug\Pages\Path.g.cs
+E:\Visual Studio 2017 Projects\source\repos\DFU Binding\DFU Binding\obj\Debug\Pages\Path.baml
+E:\Visual Studio 2017 Projects\source\repos\DFU Binding\DFU Binding\obj\Debug\Pages\Source.g.cs
+E:\Visual Studio 2017 Projects\source\repos\DFU Binding\DFU Binding\obj\Debug\Pages\Source.baml
+E:\Visual Studio 2017 Projects\source\repos\DFU Binding\DFU Binding\obj\Debug\Pages\StringFormat.g.cs
+E:\Visual Studio 2017 Projects\source\repos\DFU Binding\DFU Binding\obj\Debug\Pages\StringFormat.baml
+E:\Visual Studio 2017 Projects\source\repos\DFU Binding\DFU Binding\obj\Debug\Pages\Mode.g.cs
+E:\Visual Studio 2017 Projects\source\repos\DFU Binding\DFU Binding\obj\Debug\Pages\Mode.baml
+E:\Visual Studio 2017 Projects\source\repos\DFU Binding\DFU Binding\obj\Debug\Pages\UpdateSourceTrigger.g.cs
+E:\Visual Studio 2017 Projects\source\repos\DFU Binding\DFU Binding\obj\Debug\Pages\UpdateSourceTrigger.baml
+E:\Visual Studio 2017 Projects\source\repos\DFU Binding\DFU Binding\obj\Debug\Pages\Delay.g.cs
+E:\Visual Studio 2017 Projects\source\repos\DFU Binding\DFU Binding\obj\Debug\Pages\Delay.baml
+E:\Visual Studio 2017 Projects\source\repos\DFU Binding\DFU Binding\obj\Debug\Pages\IsAsync.g.cs
+E:\Visual Studio 2017 Projects\source\repos\DFU Binding\DFU Binding\obj\Debug\Pages\IsAsync.baml
+E:\Visual Studio 2017 Projects\source\repos\DFU Binding\DFU Binding\obj\Debug\Pages\DataContext.g.cs
+E:\Visual Studio 2017 Projects\source\repos\DFU Binding\DFU Binding\obj\Debug\Pages\DataContext.baml
+E:\Visual Studio 2017 Projects\source\repos\DFU Binding\DFU Binding\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Visual Studio 2017 Projects\source\repos\DFU Binding\DFU Binding\obj\Debug\Pages\Converter.g.cs
+E:\Visual Studio 2017 Projects\source\repos\DFU Binding\DFU Binding\obj\Debug\Pages\Converter.baml
+C:\Users\user\Desktop\Новая папка\DFU Binding\DFU Binding\bin\Debug\DFU Binding.exe.config
+C:\Users\user\Desktop\Новая папка\DFU Binding\DFU Binding\bin\Debug\DFU Binding.exe
+C:\Users\user\Desktop\Новая папка\DFU Binding\DFU Binding\bin\Debug\DFU Binding.pdb
+C:\Users\user\Desktop\Новая папка\DFU Binding\DFU Binding\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Новая папка\DFU Binding\DFU Binding\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\Новая папка\DFU Binding\DFU Binding\obj\Debug\DFU Binding.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Новая папка\DFU Binding\DFU Binding\obj\Debug\DFU Binding.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Новая папка\DFU Binding\DFU Binding\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\Новая папка\DFU Binding\DFU Binding\obj\Debug\Pages\Converter.g.cs
+C:\Users\user\Desktop\Новая папка\DFU Binding\DFU Binding\obj\Debug\Pages\DataContext.g.cs
+C:\Users\user\Desktop\Новая папка\DFU Binding\DFU Binding\obj\Debug\Pages\IsAsync.g.cs
+C:\Users\user\Desktop\Новая папка\DFU Binding\DFU Binding\obj\Debug\Pages\Delay.g.cs
+C:\Users\user\Desktop\Новая папка\DFU Binding\DFU Binding\obj\Debug\Pages\UpdateSourceTrigger.g.cs
+C:\Users\user\Desktop\Новая папка\DFU Binding\DFU Binding\obj\Debug\Pages\Mode.g.cs
+C:\Users\user\Desktop\Новая папка\DFU Binding\DFU Binding\obj\Debug\Pages\StringFormat.g.cs
+C:\Users\user\Desktop\Новая папка\DFU Binding\DFU Binding\obj\Debug\Pages\Source.g.cs
+C:\Users\user\Desktop\Новая папка\DFU Binding\DFU Binding\obj\Debug\Pages\ElementName.g.cs
+C:\Users\user\Desktop\Новая папка\DFU Binding\DFU Binding\obj\Debug\Pages\FallbackValue.g.cs
+C:\Users\user\Desktop\Новая папка\DFU Binding\DFU Binding\obj\Debug\Pages\Path.g.cs
+C:\Users\user\Desktop\Новая папка\DFU Binding\DFU Binding\obj\Debug\Pages\TargetNullValue.g.cs
+C:\Users\user\Desktop\Новая папка\DFU Binding\DFU Binding\obj\Debug\App.g.cs
+C:\Users\user\Desktop\Новая папка\DFU Binding\DFU Binding\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\Desktop\Новая папка\DFU Binding\DFU Binding\obj\Debug\DFU Binding_MarkupCompile.cache
+C:\Users\user\Desktop\Новая папка\DFU Binding\DFU Binding\obj\Debug\DFU Binding_MarkupCompile.lref
+C:\Users\user\Desktop\Новая папка\DFU Binding\DFU Binding\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\Новая папка\DFU Binding\DFU Binding\obj\Debug\Pages\Converter.baml
+C:\Users\user\Desktop\Новая папка\DFU Binding\DFU Binding\obj\Debug\Pages\DataContext.baml
+C:\Users\user\Desktop\Новая папка\DFU Binding\DFU Binding\obj\Debug\Pages\IsAsync.baml
+C:\Users\user\Desktop\Новая папка\DFU Binding\DFU Binding\obj\Debug\Pages\Delay.baml
+C:\Users\user\Desktop\Новая папка\DFU Binding\DFU Binding\obj\Debug\Pages\UpdateSourceTrigger.baml
+C:\Users\user\Desktop\Новая папка\DFU Binding\DFU Binding\obj\Debug\Pages\Mode.baml
+C:\Users\user\Desktop\Новая папка\DFU Binding\DFU Binding\obj\Debug\Pages\StringFormat.baml
+C:\Users\user\Desktop\Новая папка\DFU Binding\DFU Binding\obj\Debug\Pages\Source.baml
+C:\Users\user\Desktop\Новая папка\DFU Binding\DFU Binding\obj\Debug\Pages\ElementName.baml
+C:\Users\user\Desktop\Новая папка\DFU Binding\DFU Binding\obj\Debug\Pages\FallbackValue.baml
+C:\Users\user\Desktop\Новая папка\DFU Binding\DFU Binding\obj\Debug\Pages\Path.baml
+C:\Users\user\Desktop\Новая папка\DFU Binding\DFU Binding\obj\Debug\Pages\TargetNullValue.baml
+C:\Users\user\Desktop\Новая папка\DFU Binding\DFU Binding\obj\Debug\DFU Binding.g.resources
+C:\Users\user\Desktop\Новая папка\DFU Binding\DFU Binding\obj\Debug\DFU_Binding.Properties.Resources.resources
+C:\Users\user\Desktop\Новая папка\DFU Binding\DFU Binding\obj\Debug\DFU Binding.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Новая папка\DFU Binding\DFU Binding\obj\Debug\DFU Binding.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Новая папка\DFU Binding\DFU Binding\obj\Debug\DFU Binding.csproj.CopyComplete
+C:\Users\user\Desktop\Новая папка\DFU Binding\DFU Binding\obj\Debug\DFU Binding.exe
+C:\Users\user\Desktop\Новая папка\DFU Binding\DFU Binding\obj\Debug\DFU Binding.pdb
+C:\Users\user\Desktop\Практическая 31\DFU Binding\DFU Binding\bin\Debug\DFU Binding.exe.config
+C:\Users\user\Desktop\Практическая 31\DFU Binding\DFU Binding\bin\Debug\DFU Binding.exe
+C:\Users\user\Desktop\Практическая 31\DFU Binding\DFU Binding\bin\Debug\DFU Binding.pdb
+C:\Users\user\Desktop\Практическая 31\DFU Binding\DFU Binding\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Практическая 31\DFU Binding\DFU Binding\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\Практическая 31\DFU Binding\DFU Binding\obj\Debug\DFU Binding.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Практическая 31\DFU Binding\DFU Binding\obj\Debug\DFU Binding.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Практическая 31\DFU Binding\DFU Binding\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\Практическая 31\DFU Binding\DFU Binding\obj\Debug\Pages\Converter.g.cs
+C:\Users\user\Desktop\Практическая 31\DFU Binding\DFU Binding\obj\Debug\Pages\DataContext.g.cs
+C:\Users\user\Desktop\Практическая 31\DFU Binding\DFU Binding\obj\Debug\Pages\IsAsync.g.cs
+C:\Users\user\Desktop\Практическая 31\DFU Binding\DFU Binding\obj\Debug\Pages\Delay.g.cs
+C:\Users\user\Desktop\Практическая 31\DFU Binding\DFU Binding\obj\Debug\Pages\UpdateSourceTrigger.g.cs
+C:\Users\user\Desktop\Практическая 31\DFU Binding\DFU Binding\obj\Debug\Pages\Mode.g.cs
+C:\Users\user\Desktop\Практическая 31\DFU Binding\DFU Binding\obj\Debug\Pages\StringFormat.g.cs
+C:\Users\user\Desktop\Практическая 31\DFU Binding\DFU Binding\obj\Debug\Pages\Source.g.cs
+C:\Users\user\Desktop\Практическая 31\DFU Binding\DFU Binding\obj\Debug\Pages\ElementName.g.cs
+C:\Users\user\Desktop\Практическая 31\DFU Binding\DFU Binding\obj\Debug\Pages\FallbackValue.g.cs
+C:\Users\user\Desktop\Практическая 31\DFU Binding\DFU Binding\obj\Debug\Pages\Path.g.cs
+C:\Users\user\Desktop\Практическая 31\DFU Binding\DFU Binding\obj\Debug\Pages\TargetNullValue.g.cs
+C:\Users\user\Desktop\Практическая 31\DFU Binding\DFU Binding\obj\Debug\App.g.cs
+C:\Users\user\Desktop\Практическая 31\DFU Binding\DFU Binding\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\Desktop\Практическая 31\DFU Binding\DFU Binding\obj\Debug\DFU Binding_MarkupCompile.cache
+C:\Users\user\Desktop\Практическая 31\DFU Binding\DFU Binding\obj\Debug\DFU Binding_MarkupCompile.lref
+C:\Users\user\Desktop\Практическая 31\DFU Binding\DFU Binding\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\Практическая 31\DFU Binding\DFU Binding\obj\Debug\Pages\Converter.baml
+C:\Users\user\Desktop\Практическая 31\DFU Binding\DFU Binding\obj\Debug\Pages\DataContext.baml
+C:\Users\user\Desktop\Практическая 31\DFU Binding\DFU Binding\obj\Debug\Pages\IsAsync.baml
+C:\Users\user\Desktop\Практическая 31\DFU Binding\DFU Binding\obj\Debug\Pages\Delay.baml
+C:\Users\user\Desktop\Практическая 31\DFU Binding\DFU Binding\obj\Debug\Pages\UpdateSourceTrigger.baml
+C:\Users\user\Desktop\Практическая 31\DFU Binding\DFU Binding\obj\Debug\Pages\Mode.baml
+C:\Users\user\Desktop\Практическая 31\DFU Binding\DFU Binding\obj\Debug\Pages\StringFormat.baml
+C:\Users\user\Desktop\Практическая 31\DFU Binding\DFU Binding\obj\Debug\Pages\Source.baml
+C:\Users\user\Desktop\Практическая 31\DFU Binding\DFU Binding\obj\Debug\Pages\ElementName.baml
+C:\Users\user\Desktop\Практическая 31\DFU Binding\DFU Binding\obj\Debug\Pages\FallbackValue.baml
+C:\Users\user\Desktop\Практическая 31\DFU Binding\DFU Binding\obj\Debug\Pages\Path.baml
+C:\Users\user\Desktop\Практическая 31\DFU Binding\DFU Binding\obj\Debug\Pages\TargetNullValue.baml
+C:\Users\user\Desktop\Практическая 31\DFU Binding\DFU Binding\obj\Debug\DFU Binding.g.resources
+C:\Users\user\Desktop\Практическая 31\DFU Binding\DFU Binding\obj\Debug\DFU_Binding.Properties.Resources.resources
+C:\Users\user\Desktop\Практическая 31\DFU Binding\DFU Binding\obj\Debug\DFU Binding.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Практическая 31\DFU Binding\DFU Binding\obj\Debug\DFU Binding.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Практическая 31\DFU Binding\DFU Binding\obj\Debug\DFU Binding.csproj.CopyComplete
+C:\Users\user\Desktop\Практическая 31\DFU Binding\DFU Binding\obj\Debug\DFU Binding.exe
+C:\Users\user\Desktop\Практическая 31\DFU Binding\DFU Binding\obj\Debug\DFU Binding.pdb

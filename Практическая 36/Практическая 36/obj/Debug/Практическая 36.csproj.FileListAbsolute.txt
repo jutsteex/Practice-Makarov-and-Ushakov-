@@ -1,0 +1,20 @@
+C:\Users\kirli\source\repos\Практическая 36\Практическая 36\bin\Debug\Практическая 36.exe.config
+C:\Users\kirli\source\repos\Практическая 36\Практическая 36\bin\Debug\Практическая 36.exe
+C:\Users\kirli\source\repos\Практическая 36\Практическая 36\bin\Debug\Практическая 36.pdb
+C:\Users\kirli\source\repos\Практическая 36\Практическая 36\obj\Debug\Практическая 36.csproj.AssemblyReference.cache
+C:\Users\kirli\source\repos\Практическая 36\Практическая 36\obj\Debug\Практическая 36.csproj.SuggestedBindingRedirects.cache
+C:\Users\kirli\source\repos\Практическая 36\Практическая 36\obj\Debug\App.g.cs
+C:\Users\kirli\source\repos\Практическая 36\Практическая 36\obj\Debug\Практическая 36_MarkupCompile.cache
+C:\Users\kirli\source\repos\Практическая 36\Практическая 36\obj\Debug\Практическая 36_MarkupCompile.lref
+C:\Users\kirli\source\repos\Практическая 36\Практическая 36\obj\Debug\Практическая 36.g.resources
+C:\Users\kirli\source\repos\Практическая 36\Практическая 36\obj\Debug\Практическая_36.Properties.Resources.resources
+C:\Users\kirli\source\repos\Практическая 36\Практическая 36\obj\Debug\Практическая 36.csproj.GenerateResource.cache
+C:\Users\kirli\source\repos\Практическая 36\Практическая 36\obj\Debug\Практическая 36.csproj.CoreCompileInputs.cache
+C:\Users\kirli\source\repos\Практическая 36\Практическая 36\obj\Debug\Практическая 36.exe
+C:\Users\kirli\source\repos\Практическая 36\Практическая 36\obj\Debug\Практическая 36.pdb
+C:\Users\kirli\source\repos\Практическая 36\Практическая 36\obj\Debug\Windows\SecondWindow.g.cs
+C:\Users\kirli\source\repos\Практическая 36\Практическая 36\obj\Debug\Windows\SecondWindow.baml
+C:\Users\kirli\source\repos\Практическая 36\Практическая 36\obj\Debug\MainWindow.g.cs
+C:\Users\kirli\source\repos\Практическая 36\Практическая 36\obj\Debug\MainWindow.baml
+C:\Users\kirli\source\repos\Практическая 36\Практическая 36\obj\Debug\Windows\FinalWindow.g.cs
+C:\Users\kirli\source\repos\Практическая 36\Практическая 36\obj\Debug\Windows\FinalWindow.baml

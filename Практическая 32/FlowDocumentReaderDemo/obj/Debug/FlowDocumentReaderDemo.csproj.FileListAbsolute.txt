@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\Практическая 32\FlowDocumentReaderDemo\bin\Debug\FlowDocumentReaderDemo.exe.config
+C:\Users\user\Desktop\Практическая 32\FlowDocumentReaderDemo\bin\Debug\FlowDocumentReaderDemo.exe
+C:\Users\user\Desktop\Практическая 32\FlowDocumentReaderDemo\bin\Debug\FlowDocumentReaderDemo.pdb
+C:\Users\user\Desktop\Практическая 32\FlowDocumentReaderDemo\obj\Debug\FlowDocumentReaderDemo.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Практическая 32\FlowDocumentReaderDemo\obj\Debug\FlowDocumentReaderDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Практическая 32\FlowDocumentReaderDemo\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\Практическая 32\FlowDocumentReaderDemo\obj\Debug\App.g.cs
+C:\Users\user\Desktop\Практическая 32\FlowDocumentReaderDemo\obj\Debug\FlowDocumentReaderDemo_MarkupCompile.cache
+C:\Users\user\Desktop\Практическая 32\FlowDocumentReaderDemo\obj\Debug\FlowDocumentReaderDemo_MarkupCompile.lref
+C:\Users\user\Desktop\Практическая 32\FlowDocumentReaderDemo\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\Практическая 32\FlowDocumentReaderDemo\obj\Debug\FlowDocumentReaderDemo.g.resources
+C:\Users\user\Desktop\Практическая 32\FlowDocumentReaderDemo\obj\Debug\FlowDocumentReaderDemo.Properties.Resources.resources
+C:\Users\user\Desktop\Практическая 32\FlowDocumentReaderDemo\obj\Debug\FlowDocumentReaderDemo.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Практическая 32\FlowDocumentReaderDemo\obj\Debug\FlowDocumentReaderDemo.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Практическая 32\FlowDocumentReaderDemo\obj\Debug\FlowDocumentReaderDemo.exe
+C:\Users\user\Desktop\Практическая 32\FlowDocumentReaderDemo\obj\Debug\FlowDocumentReaderDemo.pdb

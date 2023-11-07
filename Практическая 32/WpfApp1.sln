@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp1", "WpfApp1\WpfApp1.csproj", "{5F889474-32E5-4FA5-B250-3271BE5327D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlowDocumentReaderDemo", "FlowDocumentReaderDemo\FlowDocumentReaderDemo.csproj", "{D0D47FFA-53EB-48F3-9D2D-6E0F6D5EE48C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F889474-32E5-4FA5-B250-3271BE5327D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F889474-32E5-4FA5-B250-3271BE5327D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F889474-32E5-4FA5-B250-3271BE5327D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F889474-32E5-4FA5-B250-3271BE5327D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0D47FFA-53EB-48F3-9D2D-6E0F6D5EE48C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0D47FFA-53EB-48F3-9D2D-6E0F6D5EE48C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0D47FFA-53EB-48F3-9D2D-6E0F6D5EE48C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0D47FFA-53EB-48F3-9D2D-6E0F6D5EE48C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

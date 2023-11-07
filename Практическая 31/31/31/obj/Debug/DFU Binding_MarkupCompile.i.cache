@@ -1,0 +1,20 @@
+﻿DFU Binding
+
+
+winexe
+C#
+.cs
+C:\Users\user\Desktop\Практическая 31\DFU Binding\31\obj\Debug\
+DFU_Binding
+none
+false
+DEBUG;TRACE
+C:\Users\user\Desktop\Практическая 31\DFU Binding\31\App.xaml
+13405728305
+
+18698675322
+14687258858
+MainWindow.xaml;Pages\Converter.xaml;Pages\DataContext.xaml;Pages\IsAsync.xaml;Pages\Delay.xaml;Pages\UpdateSourceTrigger.xaml;Pages\Mode.xaml;Pages\StringFormat.xaml;Pages\Source.xaml;Pages\ElementName.xaml;Pages\FallbackValue.xaml;Pages\Path.xaml;Pages\TargetNullValue.xaml;
+
+True
+
